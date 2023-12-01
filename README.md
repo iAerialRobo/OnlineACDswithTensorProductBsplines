@@ -1,4 +1,4 @@
-# Online_ACDs_with_Tensor_Product_Bsplines
+# Online Adaptive Critic Designs with Tensor Product B-Splines and Incremental Model Techniques
 
 # Citation
 If you use this code in an academic context, please cite our work:
